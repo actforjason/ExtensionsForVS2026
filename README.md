@@ -1,4 +1,3 @@
-# File-Utils-pack
 [File Utils pack](https://github.com/kkzi/FileUtils.vsix) for VS2026
 >Show current file encoding and absolute path at the bottom of each editor, click to copy the path or change the file encoding.
 <img width="1215" height="140" alt="preview" src="https://github.com/user-attachments/assets/bc0879df-819d-4952-bad6-8c85eb1fff09" />
